@@ -1,3 +1,7 @@
+## Movie_app
+리액트 무비 앱!!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
